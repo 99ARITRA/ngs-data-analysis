@@ -1,3 +1,1 @@
-# ngs-data-analysis
-
-Iniial Commit - testing
+# ngs-data-analysisgit
